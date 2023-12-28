@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
 
-      <Categories />
+      {/* <Categories /> */}
     </div>
   );
 }
